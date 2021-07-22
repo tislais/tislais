@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ahoy-hoy! I'm Tis.
 
 Seasoned front-end designer turned full-stack developer creating professional web, desktop, and mobile applications. Creative analytical thinker transitioning from the world of pinball machine repair back into the software arena. 
 
