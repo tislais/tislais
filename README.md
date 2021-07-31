@@ -6,4 +6,4 @@ JavaScript // React // HTML // CSS // jQuery
 
 NodeJS // Express // PostgreSQL // ASP.NET MVC // WPF XAML
 
-SASS // Less // Bootstrap // Tailwind // UX Design // 
+SASS // Less // Bootstrap // Tailwind // UX Design 
