@@ -2,4 +2,4 @@
 
 UI designer turned full-stack developer creating professional web, desktop, and mobile applications. Creative analytical thinker transitioning from the world of pinball machine repair back into the software arena. 
 
-JavaScript • HTML • CSS • React • Angular • Tailwind • Node • Express • Postgres • Golang
+Go • JavaScript • HTML • CSS • React • Angular • Tailwind • Node • Express • Postgres
